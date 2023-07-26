@@ -1,7 +1,7 @@
 # AtliQ-Hospitality-Analysis
 
 
-Problem statement :-
+# Problem Statement
 
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
@@ -9,7 +9,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 
 
-Task List :- 
+# Task List
 
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
@@ -20,7 +20,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 •	Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 
-Learnt things from this Project :-
+# Learnt things from this Project
 
 •	Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. (Article referred)
 
@@ -31,7 +31,7 @@ Learnt things from this Project :-
 •	Tried using colour palette and stick with that colours throughout the dashboard
 
 
-Some Important insights from the Dashboard :-
+# Some Important insights from the Dashboard
 
 •	Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
 
@@ -40,6 +40,10 @@ Some Important insights from the Dashboard :-
 •	AtliQ Bay has the highest occupancy of 66%
 
 •	Week 24 recorded the highest revenue among all, which is 139.6 Million
+
+# Data Model 
+![image](https://github.com/Zeeshandataanalyst/AtliQ-Hospitality-Analysis/assets/134337532/c3e0b077-4302-47d7-8148-b49d7f01ea18)
+
 
 •	Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 
